@@ -1,0 +1,7 @@
+{
+  "name": "Rich Nana Beauty",
+  "description": "Mave-level premium beauty studio in Pulo Gadung, Jakarta Timur offering Nail, Lash, Hair, Sulam Alis, and Sulam Bibir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
